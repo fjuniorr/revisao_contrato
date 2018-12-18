@@ -1,0 +1,3 @@
+# PREÂMBULO
+
+O Estado de Minas Gerais, por meio da Secretaria de Estado de Planejamento e Gestão – SEPLAG, com sede na Rodovia Papa João Paulo II, nº 4001, 3º andar, Edifício Gerais, Bairro Serra Verde, Belo Horizonte-MG, CEP 31630-901, representada por seu titular Helvécio Miranda Magalhães Júnior, inscrito no CPF/MF sob o nº 561.966.446- 53, portador da Carteira de Identidade nº 161715-0-SSP/MG, domiciliado na Rodovia Papa João Paulo II, nº 4001, 3º andar, Edifício Gerais, Bairro Serra Verde, Belo Horizonte-MG, CEP 31630-901, no uso de suas atribuições que lhe são conferidos pela Lei Estadual nº 22.257 de 27 de julho de 2016, doravante designada apenas “PODER CONCEDENTE”;
