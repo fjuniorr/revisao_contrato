@@ -19,30 +19,10 @@ RESOLVEM celebrar o presente CONTRATO de CONCESSÃO, que se regerá pelas seguin
 
 1. LEGISLAÇÃO APLICÁVEL E REGIME JURÍDICO DO CONTRATO
 
-  1.1. A CONCESSÃO rege-se pelas normas abaixo, bem como pelos termos e condições deste CONTRATO, pelos dispositivos do EDITAL, de seus ANEXOS e pelas normas gerais de Direito Público, sendo-lhe aplicáveis, supletivamente, os princípios da Teoria Geral dos Contratos e as disposições de Direito Privado:
-
-    1.1.1. Constituição Federal de 1988, em especial o artigo 37, inciso XXI, e o artigo 175.
-
-    1.1.2. Lei Federal nº 11.079, de 30 de dezembro de 2004.
-
-    1.1.3. Subsidiariamente, a Lei Federal nº 8.987, de 13 de fevereiro de 1995, a Lei Federal nº 9.074, de 07 de julho de 1995, e a Lei Federal nº 8.666, de 21 de junho 1993.
-
-    1.1.4. Lei Federal nº 6.404, de 15 de dezembro de 1976.
-
-    1.1.5. Lei Federal nº 9.307, de 23 de setembro de 1996.
-
-    1.1.6. Lei Complementar nº 101, de 04 de maio de 2000.
-
-    1.1.7. Lei Estadual nº 22.606, de 2 de julho de 2017.
-
-    1.1.8. Lei Estadual nº 13.994, de 18 de setembro de 2001
-
-    1.1.9. Lei Estadual nº 19.477, de 12 de janeiro de 2011.
-
-    1.1.10. Decreto Estadual nº 47.229, de 04 de agosto de 2017.
-
-    1.1.11. Decreto Estadual nº 45.902 de 27 de janeiro de 2012.
-
-    1.1.12. Normas técnicas e instruções normativas pertinentes.
-
-  1.1. As referências às normas aplicáveis à CONCESSÃO deverão também ser compreendidas como referências à legislação que as substituam ou modifiquem.
+    1.1. A CONCESSÃO rege-se pelas normas abaixo, bem como pelos termos e condições deste CONTRATO, pelos dispositivos do EDITAL, de seus ANEXOS e pelas normas gerais de Direito Público, sendo-lhe aplicáveis, supletivamente, os princípios da Teoria Geral dos Contratos e as disposições de Direito Privado:
+    
+        1.1.1. Constituição Federal de 1988, em especial o artigo 37, inciso XXI, e o artigo 175.
+        
+        1.1.1. Lei Federal nº 11.079, de 30 de dezembro de 2004.
+    
+    1.1. As referências às normas aplicáveis à CONCESSÃO deverão também ser compreendidas como referências à legislação que as substituam ou modifiquem.
