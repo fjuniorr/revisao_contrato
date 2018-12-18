@@ -19,10 +19,12 @@ RESOLVEM celebrar o presente CONTRATO de CONCESSÃO, que se regerá pelas seguin
 
 1. LEGISLAÇÃO APLICÁVEL E REGIME JURÍDICO DO CONTRATO
 
-    1.1 A CONCESSÃO rege-se pelas normas abaixo, bem como pelos termos e condições deste CONTRATO, pelos dispositivos do EDITAL, de seus ANEXOS e pelas normas gerais de Direito Público, sendo-lhe aplicáveis, supletivamente, os princípios da Teoria Geral dos Contratos e as disposições de Direito Privado:
-    1.1 As referências às normas aplicáveis à CONCESSÃO deverão também ser compreendidas como referências à legislação que as substituam ou modifiquem.
-    1.1 O regime jurídico deste CONTRATO confere ao PODER CONCEDENTE, dentre outras dispostas em lei, as prerrogativas de:
+    1. A CONCESSÃO rege-se pelas normas abaixo, bem como pelos termos e condições deste CONTRATO, pelos dispositivos do EDITAL, de seus ANEXOS e pelas normas gerais de Direito Público, sendo-lhe aplicáveis, supletivamente, os princípios da Teoria Geral dos Contratos e as disposições de Direito Privado:
+    
+    1. As referências às normas aplicáveis à CONCESSÃO deverão também ser compreendidas como referências à legislação que as substituam ou modifiquem.
+    
+    1. O regime jurídico deste CONTRATO confere ao PODER CONCEDENTE, dentre outras dispostas em lei, as prerrogativas de:
 
 1. DEFINIÇÕES
 
-    1.1 Para fins de interpretação do CONTRATO, os termos e expressões utilizados no CONTRATO terão os significados constantes no ANEXO II – DEFINIÇÕES DA CONCESSÃO
+    1. Para fins de interpretação do CONTRATO, os termos e expressões utilizados no CONTRATO terão os significados constantes no ANEXO II – DEFINIÇÕES DA CONCESSÃO
