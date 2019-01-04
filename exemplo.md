@@ -35,7 +35,7 @@ RESOLVEM celebrar o presente CONTRATO de CONCESSÃO, que se regerá pelas seguin
     
         1. Lei Federal nº 9.307, de 23 de setembro de 1996.
         
-        1. Lei Complementar nº 101, de 04 de maio de 2000.
+        1. Lei Complementar nº 101, de 04 de maio de 2000 - Lei de Responsabilidade Fiscal.
 
         1. Lei Estadual nº 22.606, de 2 de julho de 2017.
         
